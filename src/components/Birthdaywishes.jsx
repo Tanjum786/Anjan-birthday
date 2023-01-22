@@ -74,6 +74,7 @@ let wishes = [
   {
     id: 12,
     name: "Manoj",
+    wish:"Happy Birthday Meri Pyari Badi Behan💞 har kadam pe mile khushiya dee bahaar khoob tarakki karo aur tennu mile sariya da pyaar.Sending you smiles for every moment of your special day…Have a wonderful time  Have a wonderful Birthday🥳🥳"
     
   },
 ];
