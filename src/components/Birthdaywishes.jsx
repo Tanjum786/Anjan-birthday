@@ -38,8 +38,7 @@ let wishes = [
   },
   {
     id: 7,
-    wish:
-      "Keep your zest for life alive and burning! And spread the radiance! Happy birthday, Anjana!",
+    wish:"Happiest Birthday Anjana! Always be cheerful and wish you lots of progress ahead",
     name: "Shashank ",
   },
 
